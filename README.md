@@ -1,2 +1,2 @@
-# Partner-Acadmy-AI-900
+# Partner-Academy-AI-900
 Documents pour la Partner Academy AI-900
